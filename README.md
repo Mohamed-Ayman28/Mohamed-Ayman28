@@ -1,4 +1,4 @@
-h3 align="center">🚀 Software Engineer & Mobile App Developer</h3> <p align="center"> A passionate Software Engineer and Mobile App Developer specializing in building modern, responsive, and user-friendly applications. I enjoy turning ideas into real digital products using Flutter, Android, and cutting-edge frontend technologies. </p>
+🚀 Software Engineer & Mobile App Developer</h3> <p align="center"> A passionate Software Engineer and Mobile App Developer specializing in building modern, responsive, and user-friendly applications. I enjoy turning ideas into real digital products using Flutter, Android, and cutting-edge frontend technologies. </p>
 
 🌱 I’m currently expanding my skills in Flutter, Android Development, and Cross-Platform Mobile Applications
 
